@@ -1,0 +1,24 @@
+{
+    "name": "hls-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TakesxiSximada/hls-example.git"
+    },
+    "author": "TakesxiSximada",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TakesxiSximada/hls-example/issues"
+    },
+    "homepage": "https://github.com/TakesxiSximada/hls-example#readme",
+    "devDependencies": {
+        "video.js": "^4.12.8",
+        "videojs-contrib-media-sources": "^1.0.0",
+        "videojs-contrib-hls": "^0.17.9"
+    }
+}
